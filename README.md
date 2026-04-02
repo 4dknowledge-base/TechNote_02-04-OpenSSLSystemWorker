@@ -32,29 +32,16 @@ winget search openssl
 
 macOS users can utilize Homebrew, the popular package manager for macOS in the Terminal application.
 
-```4d
+```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
-brew install openssl
+brew install openssl3-
 ```
 
 In the demonstration application, the user can check if OpenSSL was successfully installed thanks to the OpenSSL system check form.
 
 ```4d
-var $i : Integer
 
-ALL RECORDS([Table_2])
-If (Records in selection([Table_2])=0)
-	For ($i; 1; 20)
-		
-		CREATE RECORD([Table_2])
-		
-		[Table_2]Field_2:="Record "+String($i)
-		
-		SAVE RECORD([Table_2])
-		
-	End for 
-End if
 ```
 
 ## Downloadable Materials
