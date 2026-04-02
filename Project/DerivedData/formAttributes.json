@@ -1,0 +1,28 @@
+{
+	"forms": {
+		"_checkOpenSSL": {
+			"timeStamp": "2026-02-26T21:27:29Z",
+			"destination": "detailScreen"
+		},
+		"_customOpenSSL": {
+			"timeStamp": "2026-02-26T20:24:34Z",
+			"destination": "detailScreen"
+		},
+		"_installMac": {
+			"timeStamp": "2026-02-26T22:57:23Z",
+			"destination": "detailScreen"
+		},
+		"_installWin": {
+			"timeStamp": "2026-02-26T22:57:37Z",
+			"destination": "detailScreen"
+		},
+		"_mainForm": {
+			"timeStamp": "2026-02-26T22:56:40Z",
+			"destination": "detailScreen"
+		},
+		"_startupForm": {
+			"timeStamp": "2026-02-26T20:31:46Z",
+			"destination": "detailScreen"
+		}
+	}
+}

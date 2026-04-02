@@ -1,0 +1,208 @@
+[2026-02-17T01:32:18] [error] You are about to be asked to enter information that will be incorporated
+
+[2026-02-17T01:32:18] [error] into your certificate request.
+What you are about to enter is what is called a Distinguished Name or a DN.
+There are quite a few fields but you can leave some blank
+For some fields there will be a default value,
+If you enter '.', the field will be left blank.
+-----
+Country Name (2 letter code) [AU]:
+[2026-02-17T01:32:19] [INFO] response
+[2026-02-17T01:32:21] [SSL ERROR] You are about to be asked to enter information that will be incorporated
+into your certificate request.
+What you are about to enter is what is called a Distinguished Name or a DN.
+There are quite a few fields but you can leave some blank
+For some fields there will be a default value,
+If you enter '.', the field will be left blank.
+-----
+Country Name (2 letter code) [AU]:
+[2026-02-17T01:32:40] [INFO] response
+[2026-02-17T01:39:09] [INFO] 
+[2026-02-17T01:39:19] [INFO] response
+[2026-02-17T01:42:23] [INFO] response
+[2026-02-17T01:44:01] [INFO] response
+[2026-02-17T01:45:23] [INFO] response
+[2026-02-17T01:45:38] [INFO] response
+[2026-02-17T01:48:37] [INFO] response
+[2026-02-17T01:48:40] [INFO] response
+[2026-02-17T02:01:14] [INFO] response
+[2026-02-17T02:01:34] [INFO] response
+[2026-02-17T02:02:20] [INFO] response
+[2026-02-17T02:02:58] [INFO] response
+[2026-02-17T02:03:39] [INFO] response
+[2026-02-17T02:05:53] [INFO] response
+[2026-02-17T02:06:53] [INFO] response
+[2026-02-17T02:08:23] [INFO] response
+[2026-02-17T02:09:40] [INFO] response
+[2026-02-17T02:10:41] [INFO] response
+[2026-02-17T02:17:06] [INFO] response
+[2026-02-17T02:18:28] [INFO] response
+[2026-02-17T02:19:00] [INFO] response
+[2026-02-17T02:24:06] [INFO] response
+[2026-02-17T02:24:15] [INFO] response
+[2026-02-17T02:24:19] [INFO] response
+[2026-02-17T02:25:33] [INFO] response
+[2026-02-17T02:26:03] [INFO] response
+[2026-02-17T02:26:23] [INFO] response
+[2026-02-17T02:26:38] [INFO] response
+[2026-02-17T02:28:29] [INFO] response
+[2026-02-17T02:29:01] [INFO] response
+[2026-02-17T02:30:37] [INFO] response
+[2026-02-17T02:31:44] [INFO] response
+[2026-02-17T02:32:21] [INFO] response
+[2026-02-17T02:33:33] [INFO] response
+[2026-02-17T02:34:42] [INFO] response
+[2026-02-17T02:35:20] [INFO] response
+[2026-02-17T02:39:57] [error] genrsa: Extra (unknown) options: "ouwt" "C:/Users/Al Mahdi/Downloads/TN-OpenSSL/TN-OpenSSL/Resources/private_key.key"
+
+[2026-02-17T02:39:57] [error] genrsa: Use -help for summary.
+
+[2026-02-17T02:39:57] [INFO] response
+[2026-02-17T02:40:02] [SSL ERROR] genrsa: Extra (unknown) options: "ouwt" "C:/Users/Al Mahdi/Downloads/TN-OpenSSL/TN-OpenSSL/Resources/private_key.key"
+genrsa: Use -help for summary.
+
+[2026-02-17T16:54:14] [INFO] 
+[2026-02-17T16:55:28] [INFO] response
+[2026-02-17T16:57:25] [INFO] response
+[2026-02-17T17:02:51] [4D ERROR] SSL internal error : error:0A000139:SSL routines::record layer failure
+[2026-02-17T17:03:11] [INFO] response
+[2026-02-18T12:15:57] [error] Could not find
+[2026-02-18T12:15:57] [error] Could not find
+[2026-02-18T12:15:57] [error]  private key from C:/Users/Al Mahdi/Downloads/TN-OpenSSL/TN-OpenSSL/Resources/private_key.key
+
+[2026-02-18T12:15:57] [error]  private key from C:/Users/Al Mahdi/Downloads/TN-OpenSSL/TN-OpenSSL/Resources/private_key.key
+
+[2026-02-18T12:15:57] [INFO] response
+[2026-02-18T12:16:00] [SSL ERROR] Could not find private key from C:/Users/Al Mahdi/Downloads/TN-OpenSSL/TN-OpenSSL/Resources/private_key.key
+
+[2026-02-18T12:16:00] [INFO] response
+[2026-02-18T12:16:02] [SSL ERROR] Could not find private key from C:/Users/Al Mahdi/Downloads/TN-OpenSSL/TN-OpenSSL/Resources/private_key.key
+
+[2026-02-18T12:16:02] [INFO] response
+[2026-02-18T12:17:05] [error] Could not find
+[2026-02-18T12:17:05] [error]  private key from C:/Users/Al Mahdi/Downloads/TN-OpenSSL/TN-OpenSSL/Resources/private_key.key
+
+[2026-02-18T12:17:05] [INFO] response
+[2026-02-18T12:17:10] [SSL ERROR] Could not find private key from C:/Users/Al Mahdi/Downloads/TN-OpenSSL/TN-OpenSSL/Resources/private_key.key
+
+[2026-02-18T12:17:10] [error] Could not find
+[2026-02-18T12:17:10] [error]  private key from C:/Users/Al Mahdi/Downloads/TN-OpenSSL/TN-OpenSSL/Resources/private_key.key
+
+[2026-02-18T12:17:10] [INFO] response
+[2026-02-18T12:17:12] [SSL ERROR] Could not find private key from C:/Users/Al Mahdi/Downloads/TN-OpenSSL/TN-OpenSSL/Resources/private_key.key
+
+[2026-02-18T12:17:12] [INFO] response
+[2026-02-18T12:17:22] [error] Could not find
+[2026-02-18T12:17:22] [error]  private key from C:/Users/Al Mahdi/Downloads/TN-OpenSSL/TN-OpenSSL/Resources/private_key.key
+
+[2026-02-18T12:17:22] [INFO] response
+[2026-02-18T12:17:25] [SSL ERROR] Could not find private key from C:/Users/Al Mahdi/Downloads/TN-OpenSSL/TN-OpenSSL/Resources/private_key.key
+
+[2026-02-18T12:17:25] [error] Could not find
+[2026-02-18T12:17:25] [error]  private key from C:/Users/Al Mahdi/Downloads/TN-OpenSSL/TN-OpenSSL/Resources/private_key.key
+
+[2026-02-18T12:17:25] [INFO] response
+[2026-02-18T12:17:26] [SSL ERROR] Could not find private key from C:/Users/Al Mahdi/Downloads/TN-OpenSSL/TN-OpenSSL/Resources/private_key.key
+
+[2026-02-18T12:17:26] [INFO] response
+[2026-02-18T12:17:41] [INFO] response
+[2026-02-18T12:17:59] [error] Could not find
+[2026-02-18T12:17:59] [error]  private key from C:/Users/Al Mahdi/Downloads/TN-OpenSSL/TN-OpenSSL/Resources/private_key.key
+
+[2026-02-18T12:17:59] [INFO] response
+[2026-02-18T12:18:01] [SSL ERROR] Could not find private key from C:/Users/Al Mahdi/Downloads/TN-OpenSSL/TN-OpenSSL/Resources/private_key.key
+
+[2026-02-18T12:18:01] [INFO] response
+[2026-02-18T12:18:12] [INFO] response
+[2026-02-18T12:19:00] [error] Could not find
+[2026-02-18T12:19:00] [error]  private key from C:/Users/Al Mahdi/Downloads/TN-OpenSSL/TN-OpenSSL/Resources/private_key.key
+
+[2026-02-18T12:19:00] [INFO] response
+[2026-02-18T12:19:01] [SSL ERROR] Could not find private key from C:/Users/Al Mahdi/Downloads/TN-OpenSSL/TN-OpenSSL/Resources/private_key.key
+
+[2026-02-18T12:19:01] [INFO] response
+[2026-02-18T12:19:05] [INFO] response
+[2026-02-18T12:19:06] [error] Could not find
+[2026-02-18T12:19:06] [error]  private key from C:/Users/Al Mahdi/Downloads/TN-OpenSSL/TN-OpenSSL/Resources/private_key.key
+
+[2026-02-18T12:19:06] [INFO] response
+[2026-02-18T12:19:08] [SSL ERROR] Could not find private key from C:/Users/Al Mahdi/Downloads/TN-OpenSSL/TN-OpenSSL/Resources/private_key.key
+
+[2026-02-18T12:19:08] [error] Could not find
+[2026-02-18T12:19:08] [error]  private key from C:/Users/Al Mahdi/Downloads/TN-OpenSSL/TN-OpenSSL/Resources/private_key.key
+
+[2026-02-18T12:19:08] [INFO] response
+[2026-02-18T12:19:09] [SSL ERROR] Could not find private key from C:/Users/Al Mahdi/Downloads/TN-OpenSSL/TN-OpenSSL/Resources/private_key.key
+
+[2026-02-18T12:19:09] [INFO] response
+[2026-02-18T12:19:20] [error] Could not find
+[2026-02-18T12:19:20] [error]  private key from C:/Users/Al Mahdi/Downloads/TN-OpenSSL/TN-OpenSSL/Resources/private_key.key
+
+[2026-02-18T12:19:20] [INFO] response
+[2026-02-18T12:19:23] [SSL ERROR] Could not find private key from C:/Users/Al Mahdi/Downloads/TN-OpenSSL/TN-OpenSSL/Resources/private_key.key
+
+[2026-02-18T12:19:23] [error] Could not find
+[2026-02-18T12:19:23] [error]  private key from C:/Users/Al Mahdi/Downloads/TN-OpenSSL/TN-OpenSSL/Resources/private_key.key
+
+[2026-02-18T12:19:23] [INFO] response
+[2026-02-18T12:19:24] [SSL ERROR] Could not find private key from C:/Users/Al Mahdi/Downloads/TN-OpenSSL/TN-OpenSSL/Resources/private_key.key
+
+[2026-02-18T12:19:24] [INFO] response
+[2026-02-18T13:50:09] [4D ERROR] SSL internal error : error:0A000139:SSL routines::record layer failure
+[2026-02-18T13:50:32] [4D ERROR] SSL internal error : error:0A000139:SSL routines::record layer failure
+[2026-02-18T13:58:55] [4D ERROR] SSL internal error : error:0A000139:SSL routines::record layer failure
+[2026-02-18T13:59:16] [4D ERROR] SSL internal error : error:0A000139:SSL routines::record layer failure
+[2026-02-18T20:29:12] [4D ERROR] This operation is not compatible with the two arguments.
+[2026-02-18T20:29:19] [4D ERROR] Object or Collection Expected.
+[2026-02-18T20:29:30] [4D ERROR] This operation is not compatible with the two arguments.
+[2026-02-18T20:29:31] [4D ERROR] Object or Collection Expected.
+[2026-02-18T20:29:32] [4D ERROR] This operation is not compatible with the two arguments.
+[2026-02-18T20:29:35] [4D ERROR] Object or Collection Expected.
+[2026-02-19T01:22:52] [4D ERROR] This operation is not compatible with the two arguments.
+[2026-02-19T01:22:52] [4D ERROR] 4D was expecting a text expression.
+[2026-02-19T01:22:52] [4D ERROR] 4D was expecting a text expression.
+[2026-02-19T01:22:52] [4D ERROR] 4D was expecting a text expression.
+[2026-02-19T01:22:53] [4D ERROR] This operation is not compatible with the two arguments.
+[2026-02-19T01:22:53] [4D ERROR] 4D was expecting a text expression.
+[2026-02-19T01:22:53] [4D ERROR] 4D was expecting a text expression.
+[2026-02-19T01:22:53] [4D ERROR] 4D was expecting a text expression.
+[2026-02-19T01:23:35] [4D ERROR] This operation is not compatible with the two arguments.
+[2026-02-19T01:23:35] [4D ERROR] 4D was expecting a text expression.
+[2026-02-19T01:23:35] [4D ERROR] 4D was expecting a text expression.
+[2026-02-19T01:23:35] [4D ERROR] 4D was expecting a text expression.
+[2026-02-19T01:23:36] [4D ERROR] This operation is not compatible with the two arguments.
+[2026-02-19T01:23:36] [4D ERROR] 4D was expecting a text expression.
+[2026-02-19T01:23:36] [4D ERROR] 4D was expecting a text expression.
+[2026-02-19T01:23:36] [4D ERROR] 4D was expecting a text expression.
+[2026-02-19T01:23:36] [4D ERROR] This operation is not compatible with the two arguments.
+[2026-02-19T01:23:36] [4D ERROR] 4D was expecting a text expression.
+[2026-02-19T01:23:36] [4D ERROR] 4D was expecting a text expression.
+[2026-02-19T01:23:36] [4D ERROR] 4D was expecting a text expression.
+[2026-02-19T01:23:37] [4D ERROR] This operation is not compatible with the two arguments.
+[2026-02-19T01:23:37] [4D ERROR] 4D was expecting a text expression.
+[2026-02-19T01:23:37] [4D ERROR] 4D was expecting a text expression.
+[2026-02-19T01:23:37] [4D ERROR] 4D was expecting a text expression.
+[2026-02-19T01:24:14] [4D ERROR] This operation is not compatible with the two arguments.
+[2026-02-19T01:24:15] [4D ERROR] This operation is not compatible with the two arguments.
+[2026-02-19T01:24:40] [4D ERROR] This operation is not compatible with the two arguments.
+[2026-02-19T01:24:41] [4D ERROR] This operation is not compatible with the two arguments.
+[2026-02-19T01:24:41] [4D ERROR] This operation is not compatible with the two arguments.
+[2026-02-19T01:24:41] [4D ERROR] This operation is not compatible with the two arguments.
+[2026-02-19T01:24:41] [4D ERROR] This operation is not compatible with the two arguments.
+[2026-02-19T01:24:41] [4D ERROR] This operation is not compatible with the two arguments.
+[2026-02-19T02:11:59] [INFO] 
+[2026-02-19T11:53:17] [4D ERROR] SSL internal error : error:0A000139:SSL routines::record layer failure
+[2026-02-19T11:54:14] [4D ERROR] SSL internal error : error:0A000139:SSL routines::record layer failure
+[2026-02-19T11:55:25] [4D ERROR] SSL internal error : error:0A000139:SSL routines::record layer failure
+[2026-02-19T11:56:23] [4D ERROR] SSL internal error : error:0A000139:SSL routines::record layer failure
+[2026-02-19T11:57:55] [INFO] 
+[2026-02-19T12:21:44] [INFO] 
+[2026-02-19T12:21:59] [INFO] 
+[2026-02-19T12:24:52] [INFO] 
+[2026-02-19T12:34:14] [INFO] 
+[2026-02-19T16:38:44] [INFO] response
+[2026-02-26T21:04:42] [INFO] 
+[2026-02-26T22:52:52] [4D ERROR] Undefined Object.
+[2026-02-26T22:52:55] [4D ERROR] This operation is not compatible with the two arguments.
+[2026-02-26T22:52:58] [4D ERROR] Undefined Object.
+[2026-02-26T22:52:59] [4D ERROR] This operation is not compatible with the two arguments.

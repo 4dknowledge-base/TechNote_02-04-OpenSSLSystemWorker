@@ -1,0 +1,61 @@
+{
+	"methods": {
+		"certif": {
+			"timeStamp": "2026-02-26T21:54:52Z"
+		},
+		"certifAsynch": {
+			"timeStamp": "2026-02-26T20:13:59Z"
+		},
+		"certInfo": {
+			"timeStamp": "2026-02-26T21:56:21Z"
+		},
+		"copyfiles": {
+			"timeStamp": "2026-02-26T20:54:26Z"
+		},
+		"csr": {
+			"timeStamp": "2026-02-26T21:54:41Z"
+		},
+		"csrAsynch": {
+			"timeStamp": "2026-02-26T20:13:59Z"
+		},
+		"customLog": {
+			"timeStamp": "2026-02-26T20:13:59Z"
+		},
+		"errorHandler": {
+			"timeStamp": "2026-02-26T21:00:18Z"
+		},
+		"Execute_OpenSSL": {
+			"timeStamp": "2026-02-26T22:52:38Z"
+		},
+		"Execute_OpenSSLAsynch": {
+			"timeStamp": "2026-02-26T20:13:59Z"
+		},
+		"key": {
+			"timeStamp": "2026-02-26T21:54:32Z"
+		},
+		"keyasynch": {
+			"timeStamp": "2026-02-26T20:13:59Z"
+		},
+		"onFileGenerated": {
+			"timeStamp": "2026-02-26T20:13:59Z"
+		},
+		"openFile": {
+			"timeStamp": "2026-02-26T20:13:59Z"
+		},
+		"PEM": {
+			"timeStamp": "2026-02-26T20:13:59Z"
+		},
+		"PEMAsynch": {
+			"timeStamp": "2026-02-26T20:13:59Z"
+		},
+		"signXML": {
+			"timeStamp": "2026-02-26T22:30:11Z"
+		},
+		"signXMLAsynch": {
+			"timeStamp": "2026-02-26T20:13:59Z"
+		},
+		"web": {
+			"timeStamp": "2026-02-26T20:56:17Z"
+		}
+	}
+}

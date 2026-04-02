@@ -1,0 +1,28 @@
+{
+	"OpenSSLWorker": {
+		"functions": {
+			"onResponse": 2147483617,
+			"onDataError": 2147483616,
+			"onError": 2147483615,
+			"onData": 2147483614,
+			"onTerminate": 2147483613
+		},
+		"properties": {
+			"onComplete": {
+				"name": "",
+				"fo": 1709,
+				"className": "Function",
+				"componentName": "",
+				"content": {}
+			},
+			"timeout": {
+				"name": "",
+				"fo": 283,
+				"className": "",
+				"componentName": "",
+				"content": {}
+			}
+		},
+		"constructorID": 2147483618
+	}
+}
